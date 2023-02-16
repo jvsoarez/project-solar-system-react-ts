@@ -6,7 +6,8 @@
     "extends": [
         "eslint:recommended",
         "plugin:react/recommended",
-        "plugin:@typescript-eslint/recommended"
+        "plugin:@typescript-eslint/recommended",
+        "plugin:react/jsx-runtime"
     ],
     "overrides": [
     ],
@@ -22,7 +23,7 @@
     "rules": {
         "indent": [
             "error",
-            "tab"
+            "spaces"
         ],
         "linebreak-style": [
             "error",
