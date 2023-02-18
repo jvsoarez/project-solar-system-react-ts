@@ -1,5 +1,9 @@
+import Title from "./Title";
+
 export default function Missions () {
   return (
-    <div data-testid="missions" />
+    <div data-testid="missions">
+      <Title headline="Missões" />
+    </div>
   );
 }
