@@ -8,7 +8,7 @@ export default function SolarSystem(): ReactElement {
 		<div data-testid="solar-system">
 			<Title headline="Planetas" />
 			{ planets.map(({ name, image }) => (
-				<PlanetCard planetName={name} planetImage={image} />
+				<PlanetCard key={name} planetName={name} planetImage={image} />
 			)) }
 		</div>
 	);
