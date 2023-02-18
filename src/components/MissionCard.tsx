@@ -5,7 +5,7 @@ export interface Props {
   destination: string,
 }
 
-export default function PlanetCard ({ name, year, country, destination }: Props) {
+export default function MissionCard ({ name, year, country, destination }: Props) {
   return (
     <div data-testid="mission-card">
       <p data-testid="mission-name">{ name }</p>
