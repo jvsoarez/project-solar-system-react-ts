@@ -5,7 +5,7 @@ import SolarSystem from './components/SolarSystem';
 
 function App() {
 	return (
-		<div className="App">
+		<div className="bg-[url('./images/background.png')]">
 			<Header />
       <SolarSystem />
 			<Missions />
