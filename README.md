@@ -7,9 +7,9 @@
 
 🔗 Project with JS repository [here](https://github.com/jvsoarez/project-solar-system-react-js)
 
-🔗 **Deployed [Here](https://solar-system-missions-and-planets-ts.surge.sh/)**
-
 👋 Hey! This is the same project as the link above but refactored using Typescript.
+
+🔗 **Deployed [Here](https://solar-system-missions-and-planets-ts.surge.sh/)**
 
 📍 Here I use **TS**, **React** and **Tailwind** for pratice the skills:
 
