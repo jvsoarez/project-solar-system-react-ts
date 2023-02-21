@@ -13,13 +13,11 @@
 
 📍 Here I use **TS**, **React** and **Tailwind** for pratice the skills:
 
-- Use JSX in React;
-- Correctly use the render() method to render your components;
+- Use TSX in React;
 - Using import to bring components in different files;
-- Create Class Components in React;
+- Create Function Components in React;
 - Create multiple components of an array;
 - Make use of props correctly;
-- Make use of PropTypes to validate a component's props.
 
 📖 **The project requirements were**:
 
@@ -31,7 +29,7 @@
 
 **4. Render the Title component inside the Solar System component** ✔️
 
-**5. Crie um componente chamado PlanetCard** ✔️
+**5. Create a component called PlanetCard** ✔️
 
 **6. Render a list with the planets of the Solar System** ✔️
 
